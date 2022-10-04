@@ -1,2 +1,1 @@
-# joerichey.com
-Source for joerichey.com
+# Source code for [joerichey.com](https://www.joerichey.com)
